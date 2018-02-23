@@ -1,0 +1,60 @@
+h1 {
+ text-align: center;
+ font-family:sans-serif;
+ font-style: italic;
+ color: #09F9F1;
+}
+
+h1 {
+ padding-top: 40px;
+ padding-bottom: 40px;
+ padding-left: 40px;
+ padding-right: 30px;
+ background-color: orange;
+}
+
+h2 {
+ text-align: left;
+ font-size: 20px;
+ display: block;
+
+}
+.ping{
+}
+#ping{
+/*margin-top: 20px;*/
+
+
+
+
+}
+
+
+.text{
+    background-color: #a00000;
+    height: 100vh;
+
+}
+.main{
+    background-color: #167a2b;
+    height: 90vh;
+    margin-top: 85px;
+}
+#about{
+    tex;t-align: center;
+    margin-top: 20px;
+}
+#text{
+    color: #aa8714;
+   font-size:30px;
+}
+.main2{
+
+    height: 100vh;
+    margin-left: 30px;
+    margin-top: 50px;
+
+}
+body style="backgroud-colour:"url/home/idris/Downloads/images (2).jpeg;">
+  background-image:url('..img/images(2).jpeg');
+}
