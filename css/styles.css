@@ -41,7 +41,7 @@ h2 {
     margin-top: 85px;
 }
 #about{
-    tex;t-align: center;
+    text-align: center;
     margin-top: 20px;
 }
 #text{
@@ -54,7 +54,4 @@ h2 {
     margin-left: 30px;
     margin-top: 50px;
 
-}
-body style="backgroud-colour:"url/home/idris/Downloads/images (2).jpeg;">
-  background-image:url('..img/images(2).jpeg');
 }
